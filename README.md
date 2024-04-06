@@ -1,11 +1,5 @@
 # UCLA M.S. in Computer Science Coursework
 
-## Table of Contents
-
-- [Courses](#courses)
-- [Projects](#projects)
-- [Contact](#contact)
-
 ## Courses
 
 Below is a list of the courses taken and in progress, categorized by areas of focus:
